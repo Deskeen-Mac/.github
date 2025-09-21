@@ -22,7 +22,7 @@ Optimized for **macOS Ventura, Sonoma, and newer**, Deskeen runs smoothly on bot
 
 Deskeen is trusted by educators, developers, and content creators for its reliability and performance. It’s the perfect solution for anyone looking to create professional screen recordings on a Mac.
 
-![Deskeen Screen Recording Example](https://static.macupdate.com/screenshots/357387/m/phpqanyci-screenshot.png)
+![Deskeen Screen Recording Example](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6d/d5/b3/6dd5b389-8426-60ba-4dea-0557c56eb60d/shot-4.jpg/643x0w.jpg)
 
 ---
 
